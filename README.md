@@ -1,5 +1,5 @@
 # Dog-Generator
-Gets a random picture of a dog from a list of my favorite dog breeds
+Retrieves a random picture of a dog from a list of my favorite dog breeds
 
 STEPS:
 1. be connected to the internet
