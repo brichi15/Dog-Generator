@@ -6,5 +6,7 @@ STEPS:
 2. Have Python and pip installed
 3. Install pillow package:
   from terminal run: pip install pillow
+4. (Optional): create a shortcut to the python script and change the icon to icon.ico
+
   
 Enjoy!
